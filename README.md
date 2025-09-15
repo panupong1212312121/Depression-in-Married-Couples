@@ -1,17 +1,27 @@
-# Depression-in-Married-Couples
+# 💔 Analyzing Depression in Married Couples: A Machine Learning Workshop
 
-This workshop is about analyzing Depression in Married couples 
+---
 
-I use data from this link 'https://www.kaggle.com/datasets/babyoda/depression-in-married-couples'
+## **Workshop Overview**
 
-I try to show you the interesting insight that I get from this data below :
+This workshop provides a comprehensive analysis of depression in married couples using data from a public Kaggle dataset. We'll explore key insights, tackle common machine learning challenges, and build a predictive model from the ground up.
 
-1. How are each feature related?
+* **Dataset Source:** [Kaggle: Depression in Married Couples](https://www.kaggle.com/datasets/babyoda/depression-in-married-couples)
 
-2. How to select the appropriate model and handle when you find some problem this may happen in this process (Imbalance data)
+---
 
-3. How to build and tuning models
+## **Key Learning Objectives**
 
-4. How to find feature importance and handle when you find some problem this may happen in this process (no feature has significant impact on target response)
+1.  **Exploratory Data Analysis (EDA):** Understand the relationships between each feature in the dataset.
+2.  **Model Selection & Data Handling:** Learn how to choose the right machine learning model and address common issues like **imbalanced data**.
+3.  **Model Building & Tuning:** Build and optimize predictive models to effectively identify depression risk.
+4.  **Feature Importance & Troubleshooting:** Discover how to determine which features are most important for your model and what to do when no single feature has a significant impact on the target variable.
 
-Example libraries which I use in this workshop : Scipy , Scikit-learn , Pandas , Numpy , Matplotlib , Seaborn
+---
+
+## **Technologies Used**
+
+* **Data Manipulation:** `pandas`, `numpy`
+* **Data Visualization:** `matplotlib`, `seaborn`
+* **Statistical Analysis:** `scipy`
+* **Machine Learning:** `scikit-learn`
