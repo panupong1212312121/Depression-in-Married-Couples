@@ -1,4 +1,4 @@
-# 💔 Analyzing Depression in Married Couples: A Machine Learning Workshop
+# 🧠 Analyzing Depression in Married Couples: A Machine Learning Workshop
 
 ---
 
